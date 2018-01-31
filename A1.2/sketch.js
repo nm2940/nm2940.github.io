@@ -4,11 +4,12 @@ function setup() {
 
 function draw() {
 	background('red');
-	var s=second;
-	var m=minute;
-	var h=hour;
+	var s=second();
+	var m=minute();
+	var h=hour();
 
 	text(h+':'+m+':'+s,5,50);
+	textsize(64);
 
 
 }
