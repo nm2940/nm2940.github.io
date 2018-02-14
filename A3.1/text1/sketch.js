@@ -1,5 +1,5 @@
 var nytResponse;
-var headlines = [];
+var abstracts = [];
 var counts = {};
 var keys = [];
 
@@ -28,11 +28,11 @@ function setupwords(){
 
   for (var i = 0; i < nytResponse.results.length; i++) {
 
-    var h = nytResponse.results[i].title;
-    append(headlines, h);
+    var h = nytResponse.results[i].abstract;
+    append(abstracts, h);
   }
 
-  var hd = join(headlines,' ');
+  var hd = join(abstracts,' ');
   var tokens = splitTokens(hd, "\t ',.?!:;");
 
 
@@ -64,6 +64,8 @@ function setupwords(){
   }
 
 }
+
+mouse
 
 
 
