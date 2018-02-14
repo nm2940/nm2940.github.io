@@ -1,6 +1,7 @@
 var headlines = [];
 var maxHeadLen, minHeadLen;
 
+
 function preload() {
 
   var url = "https://api.nytimes.com/svc/topstories/v2/home.json";
@@ -23,39 +24,30 @@ function setup() {
 
 function draw() {
   background(0);
-
-  // Set the left and top margin
   var margin = 40;
-  translate(margin, margin);
 
-  var lineheight = 15;
-  var rectheight = 8;
-
+  translate(window.innerWidth/2, window.innerHeight/2);
   for (var i = 0; i < headlines.length; i++) {
-
-    var cx = window.innerWidth/2;
-    var cy = window.innerHeight/2;
-
-    // draw rectangle
-    fill(120);
-    var rectwidth = map(headlines[i].length,minHeadLen, maxHeadLen, margin, width-margin*2);
-    rect(0, i*lineheight, rectwidth, -1*rectheight)
-
-    // draw headline
-    fill(255);
-    text(headlines[i], 0, i*lineheight);
+      push();
+      rotate(TWO_PI * i / 47);
+      fill(255);
+      text(headlines[i], 40,40);
+      fill(120,100);
+      var rectwidth = map(headlines[i].length,minHeadLen, maxHeadLen, margin, width-margin*2);
+      rect(40,40,rectwidth, -1*7);
+      pop();
+       
   }
 }
 
+
 function extractHeadlines() {
 
-  // console.log(nytResponse); // take a look at the full API response structure
+  // console.log(nytResponse); 
 
   for (var i = 0; i < nytResponse.results.length; i++) {
     var h = nytResponse.results[i].title;
-    // besides .title, other text data available to you include:
-    // .abstract, .byline, .section, etc. etc.
-
+    
     if (!maxHeadLen) {
       maxHeadLen = h.length;
     } else if (h.length > maxHeadLen) {
@@ -69,8 +61,4 @@ function extractHeadlines() {
     }
     append(headlines, h);
   }
-
-  // console.log(headlines); // make sure counted data looks as expected
-  // console.log(maxHeadLen);
-  // console.log(minHeadLen);
 }
