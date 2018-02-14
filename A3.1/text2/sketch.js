@@ -16,21 +16,32 @@ function setup() {
   createCanvas(window.innerWidth, window.innerHeight);
   background(0);
 
-  textSize(7);
+  
 
   noLoop(); 
   extractHeadlines();
 }
 
 function draw() {
-  background(0);
-  var margin = 40;
 
+
+  background(0);
+  var margin = 40;  
+  fill(255,100);
+  textSize(30);
+  r=random(255);
+  g=random(255);
+  b=random(255);
+
+  
+  text("TOP", innerWidth/2-30, window.innerHeight/2+10);
+  
   translate(window.innerWidth/2, window.innerHeight/2);
   for (var i = 0; i < headlines.length; i++) {
       push();
       rotate(TWO_PI * i / 47);
       fill(255);
+      textSize(12);
       text(headlines[i], 40,40);
       fill(120,100);
       var rectwidth = map(headlines[i].length,minHeadLen, maxHeadLen, margin, width-margin*2);
