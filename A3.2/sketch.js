@@ -42,7 +42,7 @@ function extractHeadlines(x,y,speed) {
   this.y=y;
   this.value;
   this.speed=speed;
-  this.switchInterval = round(60,100);
+  this.switchInterval = 100;
 
   for (var i = 0; i < nytResponse.results.length; i++) {
     var h = nytResponse.results[i].title;
