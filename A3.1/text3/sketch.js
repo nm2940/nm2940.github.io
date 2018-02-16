@@ -1,6 +1,7 @@
 var headlines = [];
 var headline = [];
 var nytResponse;
+var size=14;
 
 function preload() {
 
@@ -18,13 +19,13 @@ function setup() {
 
   var y=0;
   var x=0;
-  for(var i=0; i<=height/8; i++){
+  for(var i=0; i<=height/14; i++){
     var hdline = new extractHeadlines(random(-500,200),y,random(0.5,1.4));
     hdline.hd();
     headline.push(hdline);
-    y +=8;
+    y +=14;
   }
-  textSize(7);
+  textSize(14);
   
 }
 
