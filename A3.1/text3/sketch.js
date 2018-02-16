@@ -19,13 +19,13 @@ function setup() {
 
   var y=0;
   var x=0;
-  for(var i=0; i<=34; i++){
+  for(var i=0; i<=40; i++){
     var hdline = new extractHeadlines(random(-500,200),y,random(0.5,2));
     hdline.hd();
     headline.push(hdline);
-    y +=height/34;
+    y +=height/40;
   }
-  textSize(height/34);
+  textSize(height/40);
   
 }
 
