@@ -20,7 +20,7 @@ function setup() {
   var y=0;
   var x=0;
   for(var i=0; i<=height/14; i++){
-    var hdline = new extractHeadlines(random(-500,200),y,random(0.5,1.4));
+    var hdline = new extractHeadlines(random(-500,200),y,random(0.5,2));
     hdline.hd();
     headline.push(hdline);
     y +=14;
