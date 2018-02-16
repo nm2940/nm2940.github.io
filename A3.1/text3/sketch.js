@@ -1,7 +1,7 @@
 var headlines = [];
 var headline = [];
 var nytResponse;
-var size=14;
+
 
 function preload() {
 
