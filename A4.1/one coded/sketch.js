@@ -47,8 +47,8 @@ function setup() {
   for (var i = 1; i < collision.length; i++) {
     var data = collision[i].split(/,/);
     //console.log(data[4]);
-    var lat = data[4];
-    var lon = data[5];
+    var lat = data[0];
+    var lon = data[1];
     var x = mercX(lon) - cx;
     var y = mercY(lat) - cy;
 
@@ -57,6 +57,10 @@ function setup() {
     } else if(x > width / 2) {
       x -= width;
     }
+
+    var size = data[2].getNum() + data[3].getNum() + data[4].getNum() + data[5].getNum() + data[6].getNum() + data[7].getNum();
+    console.log(size);
+
     //stroke(255, 0, 255);
     fill(255, 255, 0, 120);
     ellipse(x, y, 8,8);
