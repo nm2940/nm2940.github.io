@@ -105,7 +105,7 @@ function setup() {
   textSize(40);
   textStyle(BOLD);
   fill(255,100,0,200)
-  text("Noise Compliant during Rush Hours \n7-9AM && 5-7PM 2014", 20 - width / 2, 50 - height / 2);
+  text("Noise Compliant during Rush Hours \n7-9AM && 5-7PM", 20 - width / 2, 50 - height / 2);
 
   textSize(24);
   fill(255, 255, 0);
