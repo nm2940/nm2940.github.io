@@ -1,13 +1,12 @@
-
 var mapimg;
 
 var clat = 40.7831;
 var clon = -73.9712;
 
 var ww = 800;
-var hh = 1200;
+var hh = 1400;
 
-var zoom = 12;
+var zoom = 14;
 var collision;
 
 function preload() {
@@ -16,7 +15,8 @@ function preload() {
     clon + ',' + clat + ',' + zoom + '/' +
     ww + 'x' + hh +
     '?access_token=pk.eyJ1IjoiY29kaW5ndHJhaW4iLCJhIjoiY2l6MGl4bXhsMDRpNzJxcDh0a2NhNDExbCJ9.awIfnl6ngyHoB3Xztkzarw');
-  collision = loadStrings('https://data.cityofnewyork.us/api/views/h9gi-nx95/rows.csv?accessType=DOWNLOAD');
+  collision = loadStrings('NYPD_Motor_Vehicle_Collisions.csv','csv','head');
+  //collision = loadStrings('https://data.cityofnewyork.us/api/views/h9gi-nx95/rows.csv?accessType=DOWNLOAD');
 }
 
 function mercX(lon) {
@@ -58,12 +58,9 @@ function setup() {
       x -= width;
     }
 
-    var size = data[2].getNum() + data[3].getNum() + data[4].getNum() + data[5].getNum() + data[6].getNum() + data[7].getNum();
-    console.log(size);
-
     //stroke(255, 0, 255);
     fill(255, 255, 0, 120);
-    ellipse(x, y, 8,8);
+    ellipse(x, y, 5,5);
   }
 
 
