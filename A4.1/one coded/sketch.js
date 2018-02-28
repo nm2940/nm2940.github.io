@@ -63,15 +63,15 @@ function setup() {
     ellipse(x, y, 8,8);
   }
 
+  fill(255,255,255,80);
+  rect(20 - width / 2, 20 - height / 2,500,200);
 
-
-    // draw legend
 
   textFont("sans-serif");
-  textSize(30);
+  textSize(36);
   strokeWeight(10);
   fill(255,255,0,200)
-  text("Motor Collisions in Manhattan  (01/2018 - 02/2018)", 20 - width / 2, 50 - height / 2);
+  text("Motor Collisions in Manhattan \n (01/2018 - 02/2018)", 20 - width / 2, 50 - height / 2);
 
   
 
