@@ -58,10 +58,13 @@ function setup() {
       x -= width;
     }
 
-    //stroke(255, 0, 255);
+    noStroke();
     fill(255, 255, 0, 120);
     ellipse(x, y, 8,8);
   }
+
+
+  ba
 
 
 
