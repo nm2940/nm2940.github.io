@@ -4,9 +4,9 @@ var clat = 40.7831;
 var clon = -73.9712;
 
 var ww = 800;
-var hh = 1400;
+var hh = 1280;
 
-var zoom = 14;
+var zoom = 12;
 var collision;
 
 function preload() {
@@ -60,7 +60,7 @@ function setup() {
 
     //stroke(255, 0, 255);
     fill(255, 255, 0, 120);
-    ellipse(x, y, 5,5);
+    ellipse(x, y, 8,8);
   }
 
 
