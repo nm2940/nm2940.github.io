@@ -3,7 +3,7 @@ var mapimg;
 var clat = 40.7831;
 var clon = -73.9712;
 
-var ww = 800;
+var ww = 1280;
 var hh = 1280;
 
 var zoom = 12;
@@ -64,8 +64,16 @@ function setup() {
   }
 
 
-  ba
 
+    // draw legend
+
+  textFont("sans-serif");
+  textSize(30);
+  strokeWeight(10);
+  fill(255,255,0,200)
+  text("Motor Collisions in Manhattan  (01/2018 - 02/2018)", 20 - width / 2, 50 - height / 2);
+
+  
 
 
 
