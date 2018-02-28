@@ -46,20 +46,19 @@ function setup() {
 
   for (var i = 1; i < collision.length; i++) {
     var data = collision[i].split(/,/);
-    console.log(data[4]);
+    //console.log(data[4]);
     var lat = data[4];
     var lon = data[5];
     var x = mercX(lon) - cx;
     var y = mercY(lat) - cy;
-    // This addition fixes the case where the longitude is non-zero and
-    // points can go off the screen.
+
     if(x < - width/2) {
       x += width;
     } else if(x > width / 2) {
       x -= width;
     }
     //stroke(255, 0, 255);
-    fill(255, 255, 0, 150);
+    fill(255, 255, 0, 120);
     ellipse(x, y, 8,8);
   }
 
