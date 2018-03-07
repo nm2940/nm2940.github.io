@@ -489,7 +489,7 @@ function setup() {
 
 
   slider = createSlider(1,15,5);
-  slider.position(140, height/2-50);
+  slider.position(200, height/2-50);
   slider.size(1000,1200);
 
 }
@@ -499,16 +499,18 @@ function draw(){
 
 
 val = slider.value();
+
 translate(width / 2, height / 2);
   imageMode(CENTER);
 
 image(mapimg, 0, 0);
   fill(67,67,67,150);
-  rect(140-width/2,height/2-120,1000,120);
+  rect(200-width/2,height/2-120,1000,120);
   textStyle(BOLD);
 fill(255);
 textSize(30);
-text("Compliant Type",20 - width / 2,160 - height / 2)
+text("Compliant Type",20 - width / 2,160 - height / 2);
+text("Time Slider",20-width/2, height/2-80)
 
 
   if(val==1){
