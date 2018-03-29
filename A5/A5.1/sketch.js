@@ -11,7 +11,7 @@ function setup() {
     ax[i] = width / 2;
     ay[i] = height / 2;
   }
-  frameRate(10);
+  frameRate(hour());
 }
 
 function draw() {
@@ -19,9 +19,9 @@ function draw() {
 
 
   // Shift all elements 1 place to the left
-  for ( var i = 1; i < num; i++ ) {
-    ax[i - 1] = ax[i];
-    ay[i - 1] = ay[i];
+  for ( var i = 2; i < num; i++ ) {
+    ax[i - 2] = ax[i];
+    ay[i - 2] = ay[i];
   }
 
   // Put a new value at the end of the array
@@ -38,7 +38,7 @@ function draw() {
     stroke(val);
     line(ax[j - 1], ay[j - 1], ax[j], ay[j]);
     //fill(150,120);
-    //ellipse(ax[j], ay[j],second()/5,second()/5);
+    //ellipse(ax[j], ay[j],second()/2,second()/2);
   }
 
 
