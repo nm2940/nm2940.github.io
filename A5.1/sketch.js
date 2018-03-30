@@ -17,9 +17,7 @@ function setup() {
 function draw() {
   background(51);
 
-  fill(255);
-  textSize(30);
-  text("Play wih Brownian Motion",20,20);
+
 
 
   // Shift all elements 1 place to the left
@@ -44,6 +42,11 @@ function draw() {
     //fill(150,120);
     //ellipse(ax[j], ay[j],second()/2,second()/2);
   }
+
+
+  fill(255);
+  textSize(30);
+  text("Play wih Brownian Motion",20,20);
 
 
 }
