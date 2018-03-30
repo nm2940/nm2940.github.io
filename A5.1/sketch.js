@@ -17,7 +17,7 @@ function setup() {
 function draw() {
   background(51);
 
-  fill(0);
+  fill(255);
   textSize(30);
   text("Play wih Brownian Motion",20,20);
 
