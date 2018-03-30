@@ -45,8 +45,7 @@ function draw() {
 
 
   fill(255);
-  textSize(30);
-  text("Play wih Brownian Motion",20,20);
+  text("Play wih Brownian Motion",50,50);
 
 
 }
