@@ -17,6 +17,10 @@ function setup() {
 function draw() {
   background(51);
 
+  fill(0);
+  textSize(30);
+  text("Play wih Brownian Motion",20,20);
+
 
   // Shift all elements 1 place to the left
   for ( var i = 2; i < num; i++ ) {
