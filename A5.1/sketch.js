@@ -45,7 +45,7 @@ function draw() {
 
 
   fill(255);
-  text("Play wih Brownian Motion",50,50);
+  text("Play Brownian Motion with Time",50,50);
 
 
 }
