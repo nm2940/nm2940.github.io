@@ -1,0 +1,379 @@
+FID,OBJECTID,Complaint_,Latitude,Longitude,Hour_,ntaname
+391,703,Noise - House of Worship,40.82293267,-73.94806509,6AM,Hamilton Heights
+956,4203,Noise - House of Worship,40.72678523,-74.00105712,6PM,SoHo-TriBeCa-Civic Center-Little Italy
+1011,1017,Noise - House of Worship,40.80212991,-73.93611842,2AM,East Harlem North
+1352,1297,Noise - House of Worship,40.86396652,-73.92843426,9PM,Washington Heights North
+2234,1536,Noise - House of Worship,40.74469471,-73.99706599,3PM,Hudson Yards-Chelsea-Flatiron-Union Square
+2620,3688,Noise - House of Worship,40.78103309,-73.95131142,6PM,Yorkville
+2621,3745,Noise - House of Worship,40.78103309,-73.95131142,2PM,Yorkville
+2635,4432,Noise - House of Worship,40.78103309,-73.95131142,6PM,Yorkville
+2639,4664,Noise - House of Worship,40.78090945,-73.95100459,11AM,Yorkville
+2830,2575,Noise - House of Worship,40.80400001,-73.95566163,12PM,Central Harlem South
+2838,3091,Noise - House of Worship,40.80400001,-73.95566163,12PM,Central Harlem South
+2854,4037,Noise - House of Worship,40.80400001,-73.95566163,12PM,Central Harlem South
+3003,99,Noise - House of Worship,40.73227716,-73.99131146,1PM,West Village
+3786,1590,Noise - House of Worship,40.73722204,-73.98139114,1PM,Gramercy
+4009,2101,Noise - House of Worship,40.73112604,-73.98203148,8AM,East Village
+4569,1500,Noise - House of Worship,40.79843967,-73.96503792,8AM,Upper West Side
+4607,2196,Noise - House of Worship,40.78768567,-73.97501409,10PM,Upper West Side
+4733,4948,Noise - House of Worship,40.78708426,-73.97359874,9PM,Upper West Side
+4734,4963,Noise - House of Worship,40.78693046,-73.97320158,9PM,Upper West Side
+4765,1442,Noise - House of Worship,40.81536797,-73.94179572,1AM,Central Harlem North-Polo Grounds
+4904,2988,Noise - House of Worship,40.83436135,-73.94168154,8AM,Washington Heights South
+4930,3793,Noise - House of Worship,40.83279913,-73.94073974,12AM,Washington Heights South
+5114,6691,Noise - House of Worship,40.75899935,-73.97053446,3PM,Turtle Bay-East Midtown
+5474,6056,Noise - House of Worship,40.82676249,-73.9502048,12AM,Hamilton Heights
+5538,9118,Noise - House of Worship,40.82699195,-73.94772949,10PM,Hamilton Heights
+6044,6512,Noise - House of Worship,40.80212991,-73.93611842,10PM,East Harlem North
+6046,6755,Noise - House of Worship,40.80212991,-73.93611842,12AM,East Harlem North
+6327,6909,Noise - House of Worship,40.86361231,-73.92820688,12AM,Washington Heights North
+7851,6085,Noise - House of Worship,40.80729548,-73.95327173,1AM,Central Harlem South
+8855,5560,Noise - House of Worship,40.73112604,-73.98203148,10AM,East Village
+9381,5056,Noise - House of Worship,40.7844728,-73.98142126,12AM,Upper West Side
+9469,7065,Noise - House of Worship,40.79137613,-73.96996758,6AM,Upper West Side
+9494,7557,Noise - House of Worship,40.80037643,-73.97130714,2PM,Upper West Side
+9526,7992,Noise - House of Worship,40.79187048,-73.97113746,9PM,Upper West Side
+9617,9968,Noise - House of Worship,40.78513581,-73.97501866,8PM,Upper West Side
+9713,9109,Noise - House of Worship,40.80942727,-73.93960459,1PM,Central Harlem North-Polo Grounds
+9876,7818,Noise - House of Worship,40.83276595,-73.94582418,10PM,Washington Heights South
+10239,12333,Noise - House of Worship,40.77007339,-73.95139886,10AM,Lenox Hill-Roosevelt Island
+10240,12385,Noise - House of Worship,40.76971859,-73.95643538,7PM,Lenox Hill-Roosevelt Island
+10317,10765,Noise - House of Worship,40.82690952,-73.94753444,10PM,Hamilton Heights
+10322,11022,Noise - House of Worship,40.82710462,-73.94803293,10PM,Hamilton Heights
+10369,14703,Noise - House of Worship,40.82772833,-73.9495067,7PM,Hamilton Heights
+10566,13587,Noise - House of Worship,40.75783078,-73.99121427,11PM,Clinton
+11011,13409,Noise - House of Worship,40.80190731,-73.93561296,1PM,East Harlem North
+11347,11888,Noise - House of Worship,40.8631922,-73.92792533,10PM,Washington Heights North
+13715,13823,Noise - House of Worship,40.74298081,-73.98327331,12AM,Gramercy
+13720,14181,Noise - House of Worship,40.74298081,-73.98327331,12AM,Gramercy
+13793,13693,Noise - House of Worship,40.78889815,-73.94243278,12AM,East Harlem South
+13811,14751,Noise - House of Worship,40.7883183,-73.94101768,1AM,East Harlem South
+14005,13621,Noise - House of Worship,40.72799955,-73.9807082,8AM,East Village
+14027,14063,Noise - House of Worship,40.72798582,-73.98067573,9AM,East Village
+14204,14154,Noise - House of Worship,40.71895909,-73.98608957,9AM,Lower East Side
+14286,12558,Noise - House of Worship,40.80071341,-73.95998366,10PM,Morningside Heights
+14313,13775,Noise - House of Worship,40.80163495,-73.96645213,9PM,Morningside Heights
+14345,10072,Noise - House of Worship,40.78059395,-73.97832788,2PM,Upper West Side
+14390,11052,Noise - House of Worship,40.78985149,-73.97608946,12AM,Upper West Side
+14543,14366,Noise - House of Worship,40.79187048,-73.97113746,7PM,Upper West Side
+14568,15002,Noise - House of Worship,40.79206912,-73.9755325,7PM,Upper West Side
+14596,10693,Noise - House of Worship,40.81591659,-73.94115218,11PM,Central Harlem North-Polo Grounds
+14851,12976,Noise - House of Worship,40.83279913,-73.94073974,11PM,Washington Heights South
+14904,14082,Noise - House of Worship,40.83198006,-73.9439349,11PM,Washington Heights South
+15206,16425,Noise - House of Worship,40.76971859,-73.95643538,6PM,Lenox Hill-Roosevelt Island
+15208,16438,Noise - House of Worship,40.76984771,-73.95673856,5PM,Lenox Hill-Roosevelt Island
+15266,18843,Noise - House of Worship,40.76984771,-73.95673856,10AM,Lenox Hill-Roosevelt Island
+15275,19290,Noise - House of Worship,40.76975355,-73.95457609,7PM,Lenox Hill-Roosevelt Island
+15276,19324,Noise - House of Worship,40.76975355,-73.95457609,7PM,Lenox Hill-Roosevelt Island
+15277,19507,Noise - House of Worship,40.77058321,-73.95651424,7PM,Lenox Hill-Roosevelt Island
+15281,19662,Noise - House of Worship,40.76711934,-73.95649484,7PM,Lenox Hill-Roosevelt Island
+15330,16079,Noise - House of Worship,40.82310059,-73.9491778,8PM,Hamilton Heights
+15393,17064,Noise - House of Worship,40.82782437,-73.94944881,6PM,Hamilton Heights
+15535,19951,Noise - House of Worship,40.82782437,-73.94944881,6PM,Hamilton Heights
+15539,20049,Noise - House of Worship,40.82782437,-73.94944881,7PM,Hamilton Heights
+15558,15485,Noise - House of Worship,40.76851568,-73.9871406,10PM,Clinton
+15564,15621,Noise - House of Worship,40.76827682,-73.98659191,10PM,Clinton
+16128,18269,Noise - House of Worship,40.80065073,-73.9365316,10PM,East Harlem North
+16275,18262,Noise - House of Worship,40.71212547,-73.99873751,10PM,Chinatown
+16371,15443,Noise - House of Worship,40.8631922,-73.92792533,12AM,Washington Heights North
+17654,15979,Noise - House of Worship,40.80698267,-73.95349952,2AM,Central Harlem South
+17835,19700,Noise - House of Worship,40.73486403,-73.97984743,8PM,Stuyvesant Town-Cooper Village
+18509,16201,Noise - House of Worship,40.78884044,-73.94229921,9PM,East Harlem South
+18541,17219,Noise - House of Worship,40.78884044,-73.94229921,12AM,East Harlem South
+18549,17333,Noise - House of Worship,40.78804119,-73.94123098,7PM,East Harlem South
+18569,17997,Noise - House of Worship,40.78884044,-73.94229921,12AM,East Harlem South
+18581,18177,Noise - House of Worship,40.78884044,-73.94229921,10PM,East Harlem South
+18593,18357,Noise - House of Worship,40.78884044,-73.94229921,12AM,East Harlem South
+18598,18480,Noise - House of Worship,40.78884044,-73.94229921,1AM,East Harlem South
+18971,18955,Noise - House of Worship,40.71399069,-73.98319041,12AM,Lower East Side
+19023,15428,Noise - House of Worship,40.8014262,-73.96593573,8PM,Morningside Heights
+19582,20018,Noise - House of Worship,40.80940528,-73.93955043,9PM,Central Harlem North-Polo Grounds
+19859,19125,Noise - House of Worship,40.83194709,-73.94385543,5PM,Washington Heights South
+19877,19321,Noise - House of Worship,40.83194709,-73.94385543,5PM,Washington Heights South
+20018,22947,Noise - House of Worship,40.82138173,-73.95413258,5PM,Manhattanville
+20247,20460,Noise - House of Worship,40.82772833,-73.9495067,7PM,Hamilton Heights
+20315,21912,Noise - House of Worship,40.82756536,-73.94720872,9PM,Hamilton Heights
+21166,24966,Noise - House of Worship,40.79877959,-73.93794199,7PM,East Harlem North
+21903,23872,Noise - House of Worship,40.77129783,-73.98002053,1AM,Lincoln Square
+22639,20385,Noise - House of Worship,40.80730097,-73.95327895,1PM,Central Harlem South
+22727,21679,Noise - House of Worship,40.80240418,-73.94650989,9PM,Central Harlem South
+22863,24334,Noise - House of Worship,40.79883297,-73.95201715,8PM,Central Harlem South
+22927,21016,Noise - House of Worship,40.73486403,-73.97984743,8PM,Stuyvesant Town-Cooper Village
+23534,20375,Noise - House of Worship,40.78884044,-73.94229921,12AM,East Harlem South
+23538,20562,Noise - House of Worship,40.78884044,-73.94229921,11PM,East Harlem South
+23609,24467,Noise - House of Worship,40.78867518,-73.94680259,8PM,East Harlem South
+23819,20770,Noise - House of Worship,40.71595365,-73.98672147,2PM,Lower East Side
+24010,22501,Noise - House of Worship,40.80271872,-73.96510069,9PM,Morningside Heights
+24052,24580,Noise - House of Worship,40.80058443,-73.96006682,1PM,Morningside Heights
+24145,21584,Noise - House of Worship,40.79103609,-73.9711631,1PM,Upper West Side
+24404,22416,Noise - House of Worship,40.82025544,-73.94561397,6PM,Central Harlem North-Polo Grounds
+24416,22634,Noise - House of Worship,40.82230605,-73.94067683,9PM,Central Harlem North-Polo Grounds
+24428,22919,Noise - House of Worship,40.81228694,-73.94440667,10PM,Central Harlem North-Polo Grounds
+24433,22985,Noise - House of Worship,40.82230605,-73.94067683,5PM,Central Harlem North-Polo Grounds
+24528,20267,Noise - House of Worship,40.8474134,-73.93330627,8PM,Washington Heights South
+25042,29261,Noise - House of Worship,40.81627602,-73.95281383,5PM,Manhattanville
+25337,30035,Noise - House of Worship,40.76971859,-73.95643538,10PM,Lenox Hill-Roosevelt Island
+25396,26455,Noise - House of Worship,40.82436426,-73.94556364,9AM,Hamilton Heights
+25427,27151,Noise - House of Worship,40.82671692,-73.94651202,5PM,Hamilton Heights
+25458,27885,Noise - House of Worship,40.82692601,-73.94757417,9PM,Hamilton Heights
+25655,29204,Noise - House of Worship,40.76477763,-73.99005095,11PM,Clinton
+26113,28801,Noise - House of Worship,40.7994024,-73.93748631,8PM,East Harlem North
+26171,30163,Noise - House of Worship,40.79838018,-73.94601108,5PM,East Harlem North
+26178,30234,Noise - House of Worship,40.79896649,-73.93841135,8PM,East Harlem North
+26947,29964,Noise - House of Worship,40.77677955,-73.9829868,11AM,Lincoln Square
+27362,29377,Noise - House of Worship,40.74457668,-73.99680615,10PM,Hudson Yards-Chelsea-Flatiron-Union Square
+27553,29346,Noise - House of Worship,40.77891092,-73.95017198,3PM,Yorkville
+27644,25600,Noise - House of Worship,40.80407959,-73.95561823,3AM,Central Harlem South
+27646,25629,Noise - House of Worship,40.80407959,-73.95561823,11PM,Central Harlem South
+27764,27783,Noise - House of Worship,40.80529589,-73.95663966,8PM,Central Harlem South
+27771,27923,Noise - House of Worship,40.79733087,-73.95027738,6PM,Central Harlem South
+27786,28120,Noise - House of Worship,40.79736109,-73.95034959,5PM,Central Harlem South
+27868,29375,Noise - House of Worship,40.80194298,-73.95257476,9PM,Central Harlem South
+28323,28420,Noise - House of Worship,40.73349061,-74.00372373,4PM,West Village
+28529,28651,Noise - House of Worship,40.74934531,-73.97968064,8AM,Murray Hill-Kips Bay
+28681,28950,Noise - House of Worship,40.78842918,-73.94906343,8PM,East Harlem South
+28995,27119,Noise - House of Worship,40.71582186,-73.98629584,8PM,Lower East Side
+29084,25649,Noise - House of Worship,40.80058443,-73.96006682,1PM,Morningside Heights
+29121,26819,Noise - House of Worship,40.80058443,-73.96006682,1PM,Morningside Heights
+29122,26859,Noise - House of Worship,40.80049663,-73.96014272,1PM,Morningside Heights
+29192,29692,Noise - House of Worship,40.80058443,-73.96006682,1PM,Morningside Heights
+30214,31317,Noise - House of Worship,40.76943288,-73.95575685,1PM,Lenox Hill-Roosevelt Island
+30341,31041,Noise - House of Worship,40.82782437,-73.94944881,6PM,Hamilton Heights
+30350,31352,Noise - House of Worship,40.82772833,-73.9495067,6PM,Hamilton Heights
+30464,35115,Noise - House of Worship,40.83089018,-73.94347329,4PM,Hamilton Heights
+30948,30461,Noise - House of Worship,40.79830689,-73.93682278,8PM,East Harlem North
+31006,33213,Noise - House of Worship,40.79580575,-73.93556469,11PM,East Harlem North
+31014,33622,Noise - House of Worship,40.80095852,-73.93723563,11PM,East Harlem North
+31162,33478,Noise - House of Worship,40.71141178,-73.99619093,1PM,Chinatown
+31374,32894,Noise - House of Worship,40.84992098,-73.93147116,8PM,Washington Heights North
+31381,33060,Noise - House of Worship,40.85009657,-73.93135531,7PM,Washington Heights North
+31413,33630,Noise - House of Worship,40.85021454,-73.9312576,7PM,Washington Heights North
+31424,33849,Noise - House of Worship,40.85009657,-73.93135531,9PM,Washington Heights North
+31429,33932,Noise - House of Worship,40.84958838,-73.93064738,7PM,Washington Heights North
+31431,34038,Noise - House of Worship,40.85009657,-73.93135531,7PM,Washington Heights North
+31460,34999,Noise - House of Worship,40.85764126,-73.93523004,1PM,Washington Heights North
+31472,35245,Noise - House of Worship,40.85337995,-73.93743558,10PM,Washington Heights North
+33069,33571,Noise - House of Worship,40.86688884,-73.91895488,9PM,Marble Hill-Inwood
+33228,32193,Noise - House of Worship,40.74023996,-74.00370606,4PM,West Village
+33362,33734,Noise - House of Worship,40.73403403,-73.99504942,8AM,West Village
+34194,31758,Noise - House of Worship,40.80051156,-73.96379795,11AM,Morningside Heights
+34222,33641,Noise - House of Worship,40.80271872,-73.96510069,7PM,Morningside Heights
+34456,34267,Noise - House of Worship,40.78246595,-73.97882196,8PM,Upper West Side
+34466,34580,Noise - House of Worship,40.78435473,-73.98116491,1AM,Upper West Side
+34636,33884,Noise - House of Worship,40.80957666,-73.9418911,11PM,Central Harlem North-Polo Grounds
+34639,33951,Noise - House of Worship,40.81031859,-73.94362442,11AM,Central Harlem North-Polo Grounds
+34766,31820,Noise - House of Worship,40.83436135,-73.94168154,2PM,Washington Heights South
+34879,34479,Noise - House of Worship,40.83436135,-73.94168154,9PM,Washington Heights South
+35288,36255,Noise - House of Worship,40.82990058,-73.94048577,10PM,Hamilton Heights
+35291,36343,Noise - House of Worship,40.83015919,-73.94166715,5PM,Hamilton Heights
+35359,39674,Noise - House of Worship,40.82772833,-73.9495067,9PM,Hamilton Heights
+35388,35955,Noise - House of Worship,40.75790747,-73.98929757,3AM,Clinton
+36055,36429,Noise - House of Worship,40.71226271,-73.99877719,1AM,Chinatown
+36081,37098,Noise - House of Worship,40.71212547,-73.99873751,1AM,Chinatown
+36307,38652,Noise - House of Worship,40.85764126,-73.93523004,1PM,Washington Heights North
+37618,40009,Noise - House of Worship,40.74491708,-73.9996355,9PM,Hudson Yards-Chelsea-Flatiron-Union Square
+38627,37118,Noise - House of Worship,40.73757971,-73.98781414,10PM,Gramercy
+39183,37607,Noise - House of Worship,40.81309964,-73.95799652,6PM,Morningside Heights
+39278,36145,Noise - House of Worship,40.78513582,-73.97504394,1PM,Upper West Side
+39439,40031,Noise - House of Worship,40.79659671,-73.97036973,1AM,Upper West Side
+39447,40213,Noise - House of Worship,40.79598975,-73.96895424,12AM,Upper West Side
+39575,39818,Noise - House of Worship,40.81550882,-73.93819373,11PM,Central Harlem North-Polo Grounds
+39627,36274,Noise - House of Worship,40.83199655,-73.94397464,11PM,Washington Heights South
+39783,38685,Noise - House of Worship,40.83392698,-73.94028703,11PM,Washington Heights South
+39982,42964,Noise - House of Worship,40.81584512,-73.95286833,10PM,Manhattanville
+40363,45125,Noise - House of Worship,40.77044036,-73.95617497,8PM,Lenox Hill-Roosevelt Island
+40406,41483,Noise - House of Worship,40.83015919,-73.94166715,12AM,Hamilton Heights
+40437,42477,Noise - House of Worship,40.82710462,-73.94803293,9PM,Hamilton Heights
+40487,44656,Noise - House of Worship,40.8268404,-73.94643243,2AM,Hamilton Heights
+41081,43258,Noise - House of Worship,40.79484191,-73.9347819,12AM,East Harlem North
+42301,40899,Noise - House of Worship,40.75357946,-73.99678768,6PM,Hudson Yards-Chelsea-Flatiron-Union Square
+43563,44931,Noise - House of Worship,40.74934531,-73.97968064,3PM,Murray Hill-Kips Bay
+43570,45056,Noise - House of Worship,40.74934531,-73.97968064,12PM,Murray Hill-Kips Bay
+44263,41079,Noise - House of Worship,40.79181114,-73.96501251,10AM,Upper West Side
+44440,44374,Noise - House of Worship,40.79178534,-73.97093526,9PM,Upper West Side
+44482,45006,Noise - House of Worship,40.7963303,-73.96972698,10AM,Upper West Side
+44557,42942,Noise - House of Worship,40.82810975,-73.93805194,9PM,Central Harlem North-Polo Grounds
+44643,40796,Noise - House of Worship,40.83436135,-73.94168154,10PM,Washington Heights South
+44650,40889,Noise - House of Worship,40.83436135,-73.94168154,10PM,Washington Heights South
+44658,41074,Noise - House of Worship,40.84883102,-73.93570128,1AM,Washington Heights South
+44677,41511,Noise - House of Worship,40.83436135,-73.94168154,9PM,Washington Heights South
+45374,45726,Noise - House of Worship,40.82943199,-73.94195325,11PM,Hamilton Heights
+45375,45798,Noise - House of Worship,40.82671692,-73.94651202,9PM,Hamilton Heights
+46145,47639,Noise - House of Worship,40.71134592,-73.99677889,11PM,Chinatown
+47209,46357,Noise - House of Worship,40.73961416,-73.99628315,12AM,Hudson Yards-Chelsea-Flatiron-Union Square
+47950,47262,Noise - House of Worship,40.86379315,-73.91941418,10PM,Marble Hill-Inwood
+48573,46979,Noise - House of Worship,40.74960328,-73.97950371,8AM,Murray Hill-Kips Bay
+48578,47054,Noise - House of Worship,40.74934531,-73.97968064,2AM,Murray Hill-Kips Bay
+48581,47103,Noise - House of Worship,40.74960328,-73.97950371,11AM,Murray Hill-Kips Bay
+48582,47144,Noise - House of Worship,40.74960328,-73.97950371,1PM,Murray Hill-Kips Bay
+48583,47206,Noise - House of Worship,40.74934531,-73.97968064,1AM,Murray Hill-Kips Bay
+48584,47219,Noise - House of Worship,40.74960328,-73.97950371,5AM,Murray Hill-Kips Bay
+48586,47227,Noise - House of Worship,40.74934531,-73.97968064,11AM,Murray Hill-Kips Bay
+48588,47292,Noise - House of Worship,40.74960328,-73.97950371,11AM,Murray Hill-Kips Bay
+48590,47319,Noise - House of Worship,40.74960328,-73.97950371,2PM,Murray Hill-Kips Bay
+48591,47322,Noise - House of Worship,40.74960328,-73.97950371,1AM,Murray Hill-Kips Bay
+48592,47327,Noise - House of Worship,40.74960328,-73.97950371,1AM,Murray Hill-Kips Bay
+49088,45486,Noise - House of Worship,40.71408478,-73.98976633,2PM,Lower East Side
+49249,45935,Noise - House of Worship,40.80163495,-73.96645213,12AM,Morningside Heights
+49254,46052,Noise - House of Worship,40.80234631,-73.96810968,12AM,Morningside Heights
+49579,50110,Noise - House of Worship,40.78722156,-73.97389119,10PM,Upper West Side
+49759,46818,Noise - House of Worship,40.83620056,-73.94218225,9PM,Washington Heights South
+53643,53108,Noise - House of Worship,40.74952361,-73.97905981,12PM,Murray Hill-Kips Bay
+53645,53139,Noise - House of Worship,40.74934531,-73.97968064,10AM,Murray Hill-Kips Bay
+54045,53782,Noise - House of Worship,40.72708651,-73.98776916,1AM,East Village
+54530,53037,Noise - House of Worship,40.80001673,-73.97071495,10PM,Upper West Side
+54542,53155,Noise - House of Worship,40.78990367,-73.97624111,11PM,Upper West Side
+54573,53809,Noise - House of Worship,40.7844728,-73.98142126,11PM,Upper West Side
+54590,54162,Noise - House of Worship,40.7844728,-73.98142126,10PM,Upper West Side
+54591,54176,Noise - House of Worship,40.7844728,-73.98142126,10PM,Upper West Side
+55946,55874,Noise - House of Worship,40.82642774,-73.95045076,10PM,Hamilton Heights
+56915,58167,Noise - House of Worship,40.85358286,-73.93222649,9PM,Washington Heights North
+56917,58190,Noise - House of Worship,40.85358286,-73.93222649,12AM,Washington Heights North
+56919,58265,Noise - House of Worship,40.85358286,-73.93222649,11PM,Washington Heights North
+56920,58272,Noise - House of Worship,40.85321798,-73.9325052,10PM,Washington Heights North
+57701,57266,Noise - House of Worship,40.74493629,-73.9996752,8PM,Hudson Yards-Chelsea-Flatiron-Union Square
+57985,59700,Noise - House of Worship,40.774292,-73.95126219,1PM,Yorkville
+58985,57052,Noise - House of Worship,40.7437507,-73.97552498,3AM,Murray Hill-Kips Bay
+59023,57422,Noise - House of Worship,40.74359418,-73.9751822,1AM,Murray Hill-Kips Bay
+59202,57007,Noise - House of Worship,40.73687961,-73.98610747,10PM,Gramercy
+59203,57010,Noise - House of Worship,40.73726926,-73.9852594,10PM,Gramercy
+59340,59784,Noise - House of Worship,40.79575011,-73.94469858,2AM,East Harlem South
+59520,59413,Noise - House of Worship,40.72670742,-73.98508134,5PM,East Village
+59806,57853,Noise - House of Worship,40.80058443,-73.96006682,1PM,Morningside Heights
+59822,58883,Noise - House of Worship,40.8014262,-73.96593573,9AM,Morningside Heights
+59901,56513,Noise - House of Worship,40.79188421,-73.97116996,11PM,Upper West Side
+59956,57660,Noise - House of Worship,40.79018651,-73.9769055,11PM,Upper West Side
+59970,57905,Noise - House of Worship,40.78990367,-73.97624111,11PM,Upper West Side
+60060,59511,Noise - House of Worship,40.78990367,-73.97624111,10PM,Upper West Side
+60387,59735,Noise - House of Worship,40.84305296,-73.93488282,2AM,Washington Heights South
+60499,63592,Noise - House of Worship,40.82138173,-73.95413258,9PM,Manhattanville
+60501,63663,Noise - House of Worship,40.81627602,-73.95281383,9PM,Manhattanville
+60980,61095,Noise - House of Worship,40.82968444,-73.94184463,1AM,Hamilton Heights
+61952,62346,Noise - House of Worship,40.84992098,-73.93147116,2PM,Washington Heights North
+63234,60684,Noise - House of Worship,40.80051432,-73.95597458,5AM,Central Harlem South
+63258,61392,Noise - House of Worship,40.80049922,-73.95250717,1PM,Central Harlem South
+64260,64908,Noise - House of Worship,40.78881295,-73.94220896,12AM,East Harlem South
+64261,64939,Noise - House of Worship,40.7883183,-73.94101768,1AM,East Harlem South
+64507,61065,Noise - House of Worship,40.71399069,-73.98319041,11PM,Lower East Side
+64513,61433,Noise - House of Worship,40.72305645,-73.98202283,4PM,Lower East Side
+64708,64730,Noise - House of Worship,40.80058443,-73.96006682,2PM,Morningside Heights
+64715,64999,Noise - House of Worship,40.80058443,-73.96006682,2PM,Morningside Heights
+64736,60670,Noise - House of Worship,40.78958238,-73.97547563,10PM,Upper West Side
+64976,62257,Noise - House of Worship,40.80958115,-73.93994763,4AM,Central Harlem North-Polo Grounds
+64992,62521,Noise - House of Worship,40.80620224,-73.93964725,6AM,Central Harlem North-Polo Grounds
+65369,65019,Noise - House of Worship,40.83436135,-73.94168154,1PM,Washington Heights South
+65370,65043,Noise - House of Worship,40.83620056,-73.94218225,6PM,Washington Heights South
+65615,67917,Noise - House of Worship,40.75582819,-73.96691195,1PM,Turtle Bay-East Midtown
+65856,66077,Noise - House of Worship,40.82772833,-73.9495067,6PM,Hamilton Heights
+68183,66960,Noise - House of Worship,40.80202409,-73.94968151,1PM,Central Harlem South
+68851,68062,Noise - House of Worship,40.74023996,-74.00370606,9PM,West Village
+68862,68158,Noise - House of Worship,40.74023996,-74.00370606,9PM,West Village
+69066,68615,Noise - House of Worship,40.74478006,-73.97588188,9PM,Murray Hill-Kips Bay
+69101,70519,Noise - House of Worship,40.74508193,-73.97564719,6PM,Murray Hill-Kips Bay
+69188,66526,Noise - House of Worship,40.78893937,-73.94253747,11PM,East Harlem South
+69591,66164,Noise - House of Worship,40.81020826,-73.95484831,11PM,Morningside Heights
+69743,67294,Noise - House of Worship,40.79852756,-73.96523652,11PM,Upper West Side
+70014,69362,Noise - House of Worship,40.81599353,-73.9413183,3AM,Central Harlem North-Polo Grounds
+70016,69384,Noise - House of Worship,40.81617491,-73.94176612,3AM,Central Harlem North-Polo Grounds
+70078,65855,Noise - House of Worship,40.83436135,-73.94168154,7PM,Washington Heights South
+70181,67191,Noise - House of Worship,40.83436135,-73.94168154,8PM,Washington Heights South
+70257,68406,Noise - House of Worship,40.83436135,-73.94168154,8PM,Washington Heights South
+70285,68935,Noise - House of Worship,40.83436135,-73.94168154,8PM,Washington Heights South
+70310,69286,Noise - House of Worship,40.83436135,-73.94168154,9PM,Washington Heights South
+70318,69468,Noise - House of Worship,40.83392698,-73.94028703,1AM,Washington Heights South
+70322,69490,Noise - House of Worship,40.83392698,-73.94028703,2AM,Washington Heights South
+70326,69536,Noise - House of Worship,40.83436135,-73.94168154,1PM,Washington Heights South
+70365,69903,Noise - House of Worship,40.83436135,-73.94168154,8PM,Washington Heights South
+70396,70371,Noise - House of Worship,40.83468838,-73.94249435,8PM,Washington Heights South
+70505,74077,Noise - House of Worship,40.81627602,-73.95281383,7PM,Manhattanville
+70797,70749,Noise - House of Worship,40.82642774,-73.95045076,11PM,Hamilton Heights
+70812,71250,Noise - House of Worship,40.82302336,-73.94831432,3PM,Hamilton Heights
+70997,75286,Noise - House of Worship,40.82902169,-73.94483714,1PM,Hamilton Heights
+72624,71392,Noise - House of Worship,40.74963804,-73.99903636,11PM,Hudson Yards-Chelsea-Flatiron-Union Square
+73130,72142,Noise - House of Worship,40.80049922,-73.95250717,4AM,Central Harlem South
+73876,72319,Noise - House of Worship,40.74478006,-73.97588188,9PM,Murray Hill-Kips Bay
+73877,72431,Noise - House of Worship,40.74478006,-73.97588188,6PM,Murray Hill-Kips Bay
+74038,73172,Noise - House of Worship,40.78893937,-73.94253747,8PM,East Harlem South
+74339,74719,Noise - House of Worship,40.72408245,-73.97885855,3PM,Lower East Side
+74354,75371,Noise - House of Worship,40.72249835,-73.97689288,3PM,Lower East Side
+74958,71143,Noise - House of Worship,40.83427258,-73.94536401,4PM,Washington Heights South
+74969,71239,Noise - House of Worship,40.83436135,-73.94168154,1PM,Washington Heights South
+75000,71537,Noise - House of Worship,40.83436135,-73.94168154,8PM,Washington Heights South
+75066,72024,Noise - House of Worship,40.83411404,-73.94111801,7PM,Washington Heights South
+75089,72201,Noise - House of Worship,40.83436135,-73.94168154,3PM,Washington Heights South
+75108,72471,Noise - House of Worship,40.83620056,-73.94218225,9PM,Washington Heights South
+75195,73180,Noise - House of Worship,40.83436135,-73.94168154,7PM,Washington Heights South
+75243,74068,Noise - House of Worship,40.83401754,-73.94026888,12AM,Washington Heights South
+75374,75368,Noise - House of Worship,40.83392698,-73.94028703,12AM,Washington Heights South
+75700,76090,Noise - House of Worship,40.77044036,-73.95617497,8PM,Lenox Hill-Roosevelt Island
+76441,77861,Noise - House of Worship,40.79888953,-73.93821277,9PM,East Harlem North
+76514,79597,Noise - House of Worship,40.79573272,-73.932661,4PM,East Harlem North
+76543,75639,Noise - House of Worship,40.7101986,-73.99644349,5PM,Chinatown
+76562,76243,Noise - House of Worship,40.71817453,-73.99037175,1AM,Chinatown
+76595,77704,Noise - House of Worship,40.71275675,-73.99773471,1PM,Chinatown
+77006,79818,Noise - House of Worship,40.86466396,-73.92888905,6PM,Washington Heights North
+77298,78676,Noise - House of Worship,40.77303286,-73.98219708,12PM,Lincoln Square
+77321,80217,Noise - House of Worship,40.77303286,-73.98219708,6PM,Lincoln Square
+77836,80307,Noise - House of Worship,40.73961416,-73.99628315,11PM,Hudson Yards-Chelsea-Flatiron-Union Square
+77894,77745,Noise - House of Worship,40.77408869,-73.9508002,11AM,Yorkville
+78021,78783,Noise - House of Worship,40.76285222,-73.96772789,8PM,Upper East Side-Carnegie Hill
+78164,78191,Noise - House of Worship,40.80230161,-73.95036397,1PM,Central Harlem South
+78379,78038,Noise - House of Worship,40.86633633,-73.92173224,7PM,Marble Hill-Inwood
+78558,76962,Noise - House of Worship,40.73352081,-74.00353249,5AM,West Village
+79016,75647,Noise - House of Worship,40.78893937,-73.94253747,11PM,East Harlem South
+79063,78280,Noise - House of Worship,40.78887067,-73.9423678,7PM,East Harlem South
+79117,80600,Noise - House of Worship,40.7883183,-73.94101768,2AM,East Harlem South
+79499,78645,Noise - House of Worship,40.79900971,-73.96229986,2AM,Morningside Heights
+79642,77361,Noise - House of Worship,40.79181114,-73.96501251,9PM,Upper West Side
+79716,78694,Noise - House of Worship,40.7811953,-73.97974674,3AM,Upper West Side
+79878,78536,Noise - House of Worship,40.810869,-73.94106272,5AM,Central Harlem North-Polo Grounds
+79922,79568,Noise - House of Worship,40.81506248,-73.94017028,2PM,Central Harlem North-Polo Grounds
+80274,79570,Noise - House of Worship,40.8343253,-73.94095159,1AM,Washington Heights South
+80375,77173,Noise - House of Worship,40.79166283,-73.96468395,12PM,park-cemetery-etc-Manhattan
+81587,85430,Noise - House of Worship,40.79318722,-73.94056193,10PM,East Harlem North
+81593,85608,Noise - House of Worship,40.79295913,-73.94004208,10PM,East Harlem North
+81595,85656,Noise - House of Worship,40.79268706,-73.93938142,10PM,East Harlem North
+81803,81512,Noise - House of Worship,40.86415258,-73.92751214,4PM,Washington Heights North
+82322,83167,Noise - House of Worship,40.78042491,-73.98562176,11PM,Lincoln Square
+82447,82768,Noise - House of Worship,40.74566848,-73.98771883,8PM,Midtown-Midtown South
+82449,82883,Noise - House of Worship,40.74565475,-73.9876647,2PM,Midtown-Midtown South
+82466,83287,Noise - House of Worship,40.74566848,-73.98771883,8PM,Midtown-Midtown South
+83960,85641,Noise - House of Worship,40.78887067,-73.9423678,11PM,East Harlem South
+84157,81518,Noise - House of Worship,40.72228213,-73.9801687,4PM,Lower East Side
+84160,81551,Noise - House of Worship,40.71410672,-73.98953908,8PM,Lower East Side
+84419,85372,Noise - House of Worship,40.80058443,-73.96006682,2PM,Morningside Heights
+84667,81478,Noise - House of Worship,40.81508716,-73.94014136,9PM,Central Harlem North-Polo Grounds
+84729,82823,Noise - House of Worship,40.81508716,-73.94014136,5PM,Central Harlem North-Polo Grounds
+85063,82532,Noise - House of Worship,40.83731252,-73.94288961,5PM,Washington Heights South
+85146,83656,Noise - House of Worship,40.84761367,-73.93314703,8PM,Washington Heights South
+85221,84315,Noise - House of Worship,40.83309826,-73.94065275,11PM,Washington Heights South
+85799,86885,Noise - House of Worship,40.82710462,-73.94803293,11PM,Hamilton Heights
+86527,87769,Noise - House of Worship,40.79578759,-73.94276632,8PM,East Harlem North
+87975,85822,Noise - House of Worship,40.80202409,-73.94968151,7PM,Central Harlem South
+88188,90594,Noise - House of Worship,40.80049922,-73.95250717,2PM,Central Harlem South
+88337,89092,Noise - House of Worship,40.86472322,-73.92287298,8PM,Marble Hill-Inwood
+88345,89232,Noise - House of Worship,40.86475063,-73.92282595,8PM,Marble Hill-Inwood
+89421,85812,Noise - House of Worship,40.78858913,-73.97714078,7PM,Upper West Side
+89628,86224,Noise - House of Worship,40.81619139,-73.94180584,12AM,Central Harlem North-Polo Grounds
+89631,86289,Noise - House of Worship,40.81599353,-73.9413183,3AM,Central Harlem North-Polo Grounds
+89648,86784,Noise - House of Worship,40.81477438,-73.94036924,9PM,Central Harlem North-Polo Grounds
+89681,87390,Noise - House of Worship,40.80703392,-73.93970068,7PM,Central Harlem North-Polo Grounds
+89699,87734,Noise - House of Worship,40.80785184,-73.93969633,7PM,Central Harlem North-Polo Grounds
+90317,90402,Noise - House of Worship,40.84826539,-73.93530784,4PM,Washington Heights South
+91097,91953,Noise - House of Worship,40.79540563,-73.94187458,8PM,East Harlem North
+91108,92195,Noise - House of Worship,40.80477155,-73.93834096,7PM,East Harlem North
+91136,93066,Noise - House of Worship,40.79836883,-73.93972298,8PM,East Harlem North
+92966,91122,Noise - House of Worship,40.78887067,-73.9423678,9PM,East Harlem South
+92998,92312,Noise - House of Worship,40.78887067,-73.9423678,7PM,East Harlem South
+93033,93484,Noise - House of Worship,40.78887067,-73.9423678,11PM,East Harlem South
+93036,93537,Noise - House of Worship,40.78888439,-73.94235696,12PM,East Harlem South
+93250,93321,Noise - House of Worship,40.72467557,-73.98024376,12PM,Lower East Side
+93260,93607,Noise - House of Worship,40.72457672,-73.98003814,2PM,Lower East Side
+93667,91057,Noise - House of Worship,40.81540269,-73.93990986,3PM,Central Harlem North-Polo Grounds
+93921,91721,Noise - House of Worship,40.84560397,-73.93700556,10AM,Washington Heights South
+93987,92483,Noise - House of Worship,40.83620056,-73.94218225,9PM,Washington Heights South
+94128,94279,Noise - House of Worship,40.83468838,-73.94249435,9PM,Washington Heights South
+94273,68090,Noise - House of Worship,0,0,9PM, 
+94404,78709,Noise - House of Worship,0,0,10PM, 
+94432,80945,Noise - House of Worship,0,0,8PM, 
+94555,90440,Noise - House of Worship,0,0,10AM, 
