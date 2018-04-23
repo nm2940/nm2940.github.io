@@ -16,7 +16,7 @@ var neighborhood = ["Battery Park City", "Central Halem North", "Central Harlem 
                     "park-cemetery-etc","Soho","Stuyvesant Town-Copper Village", "Turtle Bay", "Upper East Side", 
                     "Upper West Side", "Washington Heights North", "Washington Heights South", "West Village",
                     "Yorkville"];
-var hour = ["1AM", "2AM", "3AM", "4AM", "5AM", "6AM", "7AM", "8AM", "9AM", "10AM", "11AM", "12PM", "1PM", "2PM", 
+var time = ["1AM", "2AM", "3AM", "4AM", "5AM", "6AM", "7AM", "8AM", "9AM", "10AM", "11AM", "12PM", "1PM", "2PM", 
             "3PM", "4PM", "5PM", "6PM", "7PM", "8PM", "9PM", "10PM", "11PM", "12AM"];
 
 function preload(){
@@ -55,14 +55,14 @@ function draw(){
     }
 
 
-    var h2 = 100;
+    var h2 = 200;
     for(var i=0; i<24; i++){
     	fill(210,210,210);
     	noStroke();
     	rect(100, h2-32, 80, 40);
     	fill(255);
     	strokeWeight(2);
-    	text(hour[i], 140, h2);
+    	text(time[i], 140, h2);
     	h2 = h2 + 600;
     }
 
