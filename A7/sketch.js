@@ -407,7 +407,7 @@ function draw(){
     textAlign(LEFT);
     textSize(12);
     text("Battery Park City is a mainly residential 92-acre (37 ha) planned community on the west side of the southern tip of the island of Manhattan in New York City. More than one-third of the development is parkland.", 75, 150, 200,200);
-
+    
 }
 
 
