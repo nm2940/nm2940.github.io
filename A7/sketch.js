@@ -86,7 +86,7 @@ function preload(){
     Clinton = loadStrings('Clinton.csv','csv','head');
 
     East_Harlem_North = loadStrings('Clinton.csv','csv','head');
-    East_Harlem_North = loadStrings('Clinton.csv','csv','head');
+    East_Harlem_South = loadStrings('Clinton.csv','csv','head');
     East_Village = loadStrings('Central_Harlem_North.csv','csv','head');
     Gramery = loadStrings('Clinton.csv','csv','head');
     Hamilton_Heights = loadStrings('Clinton.csv','csv','head');
