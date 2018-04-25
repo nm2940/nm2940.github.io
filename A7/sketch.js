@@ -315,20 +315,18 @@ function draw(){
     		line(330, h4, 360, h4); 
     		h4=h4+20;   		
     	}
-        
+       
         var imgHere = img[i];
     	var h5=h2+100;
     	var x=480;
     	for(var j=0; j<6; j++){
             if (mouseX > 800 && mouseX < 980 && mouseY > h5 && mouseY < h5+22) {
             	fill(204,0,0);
-                stroke(204,0,0);
-                StrokeWeight(10);
                 image(imgHere[j+1], 1000,150 + i*x, imgHere[j+1].width/3, imgHere[j+1].height/3);
             } else {
                 fill(0,100);
-                noStroke();
-            }    		
+            }   
+            noStroke(); 		
     		rect(800, h5, 180, 22);
     		fill(255);
     		textAlign(CENTER);
