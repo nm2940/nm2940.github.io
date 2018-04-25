@@ -322,7 +322,7 @@ function draw(){
     	for(var j=0; j<6; j++){
             if (mouseX > 800 && mouseX < 980 && mouseY > h5 && mouseY < h5+22) {
             	fill(204,0,0);
-                image(imgHere[j+1], 1100,100 + i*x, imgHere[j+1].width/2, imgHere[j+1].height/2);
+                image(imgHere[j+1], 1100,90 + i*x, imgHere[j+1].width/2, imgHere[j+1].height/2);
             } else {
                 fill(0,100);
             }   

@@ -1,0 +1,26 @@
+
+h2.title {
+  color: #787878;
+/*  font-family: 'Nunito', sans-serif;*/
+  margin-top: 50px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+}
+
+p.pa {
+  color: rgba(80,80,80,100);
+/*  font-family: 'Nunito', sans-serif;
+*/  text-align: left;
+  width: 930px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+  display: flex;
+  flex-direction: column; 
+}
+
+
+
+link {
+  display: inline-block;
+
+}
