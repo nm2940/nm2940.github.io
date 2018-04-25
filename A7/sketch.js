@@ -321,12 +321,14 @@ function draw(){
     	var x=480;
     	for(var j=0; j<6; j++){
             if (mouseX > 800 && mouseX < 980 && mouseY > h5 && mouseY < h5+22) {
-            	fill(204,0,0,100);
+            	fill(204,0,0);
+                stroke(204,0,0);
+                StrokeWeight(10);
                 image(imgHere[j+1], 1000,150 + i*x, imgHere[j+1].width/3, imgHere[j+1].height/3);
             } else {
                 fill(0,100);
-            }
-    		noStroke();
+                noStroke();
+            }    		
     		rect(800, h5, 180, 22);
     		fill(255);
     		textAlign(CENTER);
@@ -358,7 +360,6 @@ function draw(){
             var data1 = dataHere[i].split(/,/);
             strokeWeight(data1[1]/factor);
             if (mouseX > 800 && mouseX < 980 && mouseY > 180+j*x && mouseY < 202+j*x) {
-
                 stroke(204,0,0);
             } else {
                 stroke(0,100);
