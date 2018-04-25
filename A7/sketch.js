@@ -322,7 +322,7 @@ function draw(){
     	for(var j=0; j<6; j++){
             if (mouseX > 800 && mouseX < 980 && mouseY > h5 && mouseY < h5+22) {
             	fill(204,0,0);
-                image(imgHere[j+1], 1000,150 + i*x, imgHere[j+1].width/3, imgHere[j+1].height/3);
+                image(imgHere[j+1], 1100,100 + i*x, imgHere[j+1].width/2, imgHere[j+1].height/2);
             } else {
                 fill(0,100);
             }   
@@ -352,48 +352,75 @@ function draw(){
         var pos6_1=440;
         x2=50;
         x=480;
-
     
-        for (var i = 1; i < dataHere.length; i++) {
+        for (var i = 1; i < dataHere.length-1; i++) {
             var data1 = dataHere[i].split(/,/);
-            strokeWeight(data1[1]/factor);
+            var data2 = dataHere[25].split(/,/);
+
+            strokeWeight(data1[1]/factor);                
+                textSize(80);
+                textAlign(LEFT);
             if (mouseX > 800 && mouseX < 980 && mouseY > 180+j*x && mouseY < 202+j*x) {
+                noStroke();
+                fill(204,0,0);
+                text(data2[1], 75, 400+j*x);
                 stroke(204,0,0);
+
             } else {
                 stroke(0,100);
             }
             line(795, pos1_1+j*x, 370, pos1+j*x);
             strokeWeight(data1[2]/factor);
             if (mouseX > 800 && mouseX < 980 && mouseY > 180+x2+j*x && mouseY < 202+x2+j*x) {
+                noStroke();
+                fill(204,0,0);
+                text(data2[2], 75, 400+j*x);
                 stroke(204,0,0);
+                
             } else {
                 stroke(0,100);
             }
             line(795, pos2_1+j*x, 370, pos1+j*x);  
             strokeWeight(data1[3]/factor);
             if (mouseX > 800 && mouseX < 980 && mouseY > 180+x2*2+j*x && mouseY < 202+x2*2+j*x) {
+                noStroke();
+                fill(204,0,0);
+                text(data2[3], 75, 400+j*x);
                 stroke(204,0,0);
+                
             } else {
                 stroke(0,100);
             }
             line(795, pos3_1+j*x, 370, pos1+j*x); 
             strokeWeight(data1[4]/factor);
             if (mouseX > 800 && mouseX < 980 && mouseY > 180+x2*3+j*x && mouseY < 202+x2*3+j*x) {
+                noStroke();
+                fill(204,0,0);
+                text(data2[4], 75, 400+j*x);
                 stroke(204,0,0);
+                
             } else {
                 stroke(0,100);
             }
             line(795, pos4_1+j*x, 370, pos1+j*x); 
             strokeWeight(data1[5]/factor);
             if (mouseX > 800 && mouseX < 980 && mouseY > 180+x2*4+j*x && mouseY < 202+x2*4+j*x) {
+                noStroke();
+                fill(204,0,0);
+                text(data2[5], 75, 400+j*x);
                 stroke(204,0,0);
+                
             } else {
                 stroke(0,100);
             }
             line(795, pos5_1+j*x, 370, pos1+j*x); 
             strokeWeight(data1[6]/factor);
             if (mouseX > 800 && mouseX < 980 && mouseY > 180+x2*5+j*x && mouseY < 202+x2*5+j*x) {
+                noStroke();
+                fill(204,0,0);
+                text(data2[6], 75, 400+j*x);
                 stroke(204,0,0);
+                
             } else {
                 stroke(0,100);
             }
@@ -406,7 +433,11 @@ function draw(){
     noStroke();
     textAlign(LEFT);
     textSize(12);
-    text("Battery Park City is a mainly residential 92-acre (37 ha) planned community on the west side of the southern tip of the island of Manhattan in New York City. More than one-third of the development is parkland.", 75, 150, 200,200);
+    text("Hang over your mouse to explore the distribution of each type of complaint in different neighborhood.", 800,50,180,100);
+    for(var i=0; i<29; i++){
+        text("Battery Park City is a mainly residential 92-acre (37 ha) planned community on the west side of the southern tip of the island of Manhattan in New York City. More than one-third of the development is parkland.", 75, 150+i*x, 200,200);
+    }
+    
     
 }
 
