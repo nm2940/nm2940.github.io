@@ -13,6 +13,35 @@ var time = ["1AM", "2AM", "3AM", "4AM", "5AM", "6AM", "7AM", "8AM", "9AM", "10AM
             "3PM", "4PM", "5PM", "6PM", "7PM", "8PM", "9PM", "10PM", "11PM", "12AM"];
 var complaintType = ["Noise_Commercial", "Noise_Helicopter", "Noise_House", "Noise_Park", "Noise_Street", "Noise_Vehicle"];
 
+var description = ["Battery Park City is a mainly residential 92-acre (37 ha) planned community on the west side of the southern tip of the island of Manhattan in New York City. More than one-third of the development is parkland.",
+                   "Central Harlem has been a cultural and artistic mecca since the 1920's and the birth of the Harlem Renaissance where it gained notoriety for its diverse population and rich heritage. The neighborhood extends from the north end of Central Park at 110th Street to the Harlem River, and from 5th to St. Nicholas Avenues.",
+                   "Central Harlem has been a cultural and artistic mecca since the 1920's and the birth of the Harlem Renaissance where it gained notoriety for its diverse population and rich heritage. The neighborhood extends from the north end of Central Park at 110th Street to the Harlem River, and from 5th to St. Nicholas Avenues.",
+                   "Vibrant Chinatown is a densely populated neighborhood that draws foodies and tourists to its many Chinese and Southeast Asian restaurants for dumplings, pork buns and hand-pulled noodles. The busy sidewalks are packed with souvenir stores, bubble tea shops, and markets selling everything from fresh and dried fish to herbs and spices.",
+                   "Adjacent to the theater district, Hell's Kitchen has long been the home of actors and arts organizations. It's also a hub of gay culture. Pre- and post-theater crowds from nearby Broadway, tourists from Times Square and workers from office high-rises jam the international restaurants, bars and pubs along 8th and 9th avenues. Farther west, along the water, Hudson River Park has landscaped walkways.",
+                   "Also known as “El Barrio,” East Harlem is a vibrant showcase for Puerto Rican culture. Foodies pilgrimage to its mix of Latin American and Caribbean restaurants, as well as to iconic Italian restaurants like Rao’s and Patsy’s pizzeria. Exhibits at El Museo del Barrio reflect the local culture, as do the neighborhood's colorful street art and murals, some made by famous graffiti artists like Keith Haring.",
+                   "Also known as “El Barrio,” East Harlem is a vibrant showcase for Puerto Rican culture. Foodies pilgrimage to its mix of Latin American and Caribbean restaurants, as well as to iconic Italian restaurants like Rao’s and Patsy’s pizzeria. Exhibits at El Museo del Barrio reflect the local culture, as do the neighborhood's colorful street art and murals, some made by famous graffiti artists like Keith Haring.",
+                   "The East Village is known for its happening nightlife. Old-school bars, music venues and performance spaces share the streets with posh cocktail lounges, hip restaurants. Daytime sees a more laid-back crowd browsing boutiques, vintage shops and tattoo parlors, and dining at casual cafes. Once the epicenter of the city's punk scene, St. Mark's Place now features of-the-moment fast-food eateries and souvenir shops.",
+                   "Gramercy Park is a quiet, well-to-do residential area with brownstones and upscale apartment buildings on tree-lined streets. Fashionable restaurants draw affluent crowds, and historic bars host a buzzy after-work scene. Stylish hotels dot the area. Irving Plaza, a concert venue, features an eclectic line-up of bands. At the area’s center is a private, gated park, from which the neighborhood takes its name.",
+                   "Hamilton Heights is a neighborhood in the northern part of Manhattan, which is a borough of New York City. It lies between Manhattanville to the south and Washington Heights to the north. It contains the sub-neighborhood of Sugar Hill.",
+                   "Hudson Yards is a large-scale redevelopment program planned, funded and constructed under a set of agreements among the State of New York, New York City, and the Metropolitan Transportation Authority, with the aim of expanding New York City's Midtown Manhattan Business District westward to the Hudson River.",
+                   "Lenox Hill is a neighborhood on Manhattan's Upper East Side. It forms the lower section of the Upper East Side, closest to Midtown. The neighborhood ranges from East 60th Street to East 77th Street south to north, by East River to the east, and by Park Avenue to the west.",
+                   "Lincoln Square is the name of both a square and the surrounding neighborhood within the Upper West Side of the New York City borough of Manhattan. Lincoln Square is centered on the intersection of Broadway and Columbus Avenue, between West 65th and West 66th streets. The neighborhood is bounded by Columbus Avenue and Amsterdam Avenue to the east and west, and West 66th and 63rd Street to the north and south.",
+                   "The eclectic Lower East Side is where gritty alleys and tenement-style buildings mix with upscale apartments and chic boutiques. Nighttime draws hip, young crowds to the area's trendy bars, music venues and restaurants. The neighborhood's Jewish heritage lives on through Orchard Street's Lower East Side Tenement Museum and old-world fabric stores, as well as traditional delis such as Katz's and Russ & Daughters.",
+                   "Manhattanville (also known as West Harlem or West Central Harlem)[1] is a neighborhood in the New York City borough of Manhattan bordered on the north and south by West 134th Street and West 122nd Street, respectively; on the west by Morningside Park and on the east by Adam Clayton Powell Jr. Boulevard.",
+                   "Marble Hill is the northernmost neighborhood in the New York City borough of Manhattan. It is the only Manhattan neighborhood on the mainland of North America. Marble Hill was occupied as a Dutch colonial settlement in 1646, and gained its current name in 1891 because of marble deposits underneath the neighborhood.",
+                   "Midtown Manhattan, or Midtown, represents the central lengthwise portion of the borough and island of Manhattan in New York City. Midtown is home to some of the city's most iconic buildings, including the Empire State Building, the Chrysler Building, and the headquarters of the United Nations, and it contains world-renowned commercial zones such as Rockefeller Center, Broadway, and Times Square.",
+                   "Morningside Heights is bounded by Morningside Park at Morningside Drive to the east, Manhattanville at 125th Street to the north, Manhattan Valley at 110th Street to the south, and Riverside Park at Riverside Drive to the west.[10][11] The main thoroughfare is Broadway.",
+                   "Murray Hill is a neighborhood in midtown Manhattan in New York City. In 1999, Manhattan Community Board 6 – of which Murray Hill is part – defined the boundaries as East 34th Street to the south, East 40th Street to the north, Madison Avenue to the west, and East River to the east.",
+                   " ",
+                   "Designer boutiques, fancy chain stores and high-end art galleries make trendy SoHo a top shopping destination, especially for out-of-towners. Known for its elegant cast-iron-facades and cobblestone streets, the neighborhood is also an atmospheric backdrop for fashionable crowds clustering at high-end restaurants and nightlife hotspots. During the day, street vendors sell everything from jewelry to original artwork.",
+                   "Stuyvesant Town–Peter Cooper Village is a large, post-World War II private residential development, on the east side of the New York City borough of Manhattan.",
+                   "Famed skyscrapers like the art deco Chrysler Building and the nearby Empire State Building define the skyline of busy Midtown East. Well-heeled shoppers head to 5th Avenue's big-name luxury stores, while tourists visit landmarks like Grand Central Terminal train station and the UN Headquarters building. The area is home to many businesses, including advertising firms on Madison Avenue, plus residential high-rises.",
+                   "The posh, residential Upper East Side is known for its wealthy denizens, fancy restaurants and designer shops along Madison Avenue. It's a pretty neighborhood, with a mix of classic brownstones and upscale high-rises. Museum Mile, a stretch of 5th Avenue next to Central Park, draws crowds to cultural institutions that include the Metropolitan Museum of Art, the Solomon R. Guggenheim Museum and El Museo del Barrio.",
+                   "The Upper West Side is home to Lincoln Center, which hosts performing-arts institutions like the Metropolitan Opera and New York City Ballet. Amid the grand apartment buildings of Central Park West, the American Museum of Natural History presents everything from dinosaurs to outer-space exhibits. On weekends, families emerge from stately brownstones on quiet side streets to line up for brunch or bagels.",
+                   "Washington Heights is a neighborhood in the northern portion of the New York City borough of Manhattan. The area, with over 150,000 inhabitants as of 2010, is named for Fort Washington, a fortification constructed at the highest point on the island of Manhattan by Continental Army troops during the American Revolutionary War, to defend the area from the British forces.",
+                   "Washington Heights is a neighborhood in the northern portion of the New York City borough of Manhattan. The area, with over 150,000 inhabitants as of 2010, is named for Fort Washington, a fortification constructed at the highest point on the island of Manhattan by Continental Army troops during the American Revolutionary War, to defend the area from the British forces.",
+                   "The West Village draws fashionable crowds to its designer boutiques and trendy restaurants. Quaint streets, some still cobblestoned, are lined with Federal-style townhouses and dotted with public squares. Notable venues include the Village Vanguard jazz club and the Stonewall Inn bar, site of the 1969 riots that launched the gay rights movement. The historically arty area also has piano bars, cabarets and theaters.",
+                   "Yorkville is a neighborhood in the Upper East Side of Manhattan, New York City. Its southern boundary is East 79th Street, its northern East 96th Street, its western Third Avenue, and its eastern the East River."];
 
 var data = [];
 var Battery_Park = [];
@@ -84,27 +113,25 @@ function preload(){
     Central_Harlem_South = loadStrings('Central_Harlem_South.csv','csv','head');
     Chinatown = loadStrings('Chinatown.csv','csv','head');
     Clinton = loadStrings('Clinton.csv','csv','head');
-
-    East_Harlem_North = loadStrings('Clinton.csv','csv','head');
-    East_Harlem_South = loadStrings('Clinton.csv','csv','head');
-    East_Village = loadStrings('Central_Harlem_North.csv','csv','head');
-    Gramery = loadStrings('Clinton.csv','csv','head');
-    Hamilton_Heights = loadStrings('Clinton.csv','csv','head');
-    Hudson_Yards = loadStrings('Clinton.csv','csv','head');
-    Lenox_Hill = loadStrings('Central_Harlem_North.csv','csv','head');
-    Lincoln_Square = loadStrings('Clinton.csv','csv','head');
-    Lower_East_Side = loadStrings('Clinton.csv','csv','head');
-    Manhattan_ville = loadStrings('Clinton.csv','csv','head');
-    Marble_Hill_Inwood = loadStrings('Clinton.csv','csv','head');
-    Midtown_South = loadStrings('Clinton.csv','csv','head');
-    Morningside_Height = loadStrings('Clinton.csv','csv','head');
-    Murray_Hill = loadStrings('Central_Harlem_North.csv','csv','head');
-    park_etc = loadStrings('Clinton.csv','csv','head');
-    Soho = loadStrings('Clinton.csv','csv','head');
-    Cooper_Village = loadStrings('Clinton.csv','csv','head');
-    Turtle_Bay = loadStrings('Clinton.csv','csv','head');
-    Upper_East_Side = loadStrings('UpperWestSide.csv','csv','head');
-    
+    East_Harlem_North = loadStrings('EastHarlemNorth.csv','csv','head');
+    East_Harlem_South = loadStrings('EastHarlemSouth.csv','csv','head');
+    East_Village = loadStrings('EastVillage.csv','csv','head');
+    Gramery = loadStrings('Gramercy.csv','csv','head');
+    Hamilton_Heights = loadStrings('HamiltonHeights.csv','csv','head');
+    Hudson_Yards = loadStrings('HudsonYards.csv','csv','head');
+    Lenox_Hill = loadStrings('LenoxHillRooseveltIsland.csv','csv','head');
+    Lincoln_Square = loadStrings('LincolnSquare.csv','csv','head');
+    Lower_East_Side = loadStrings('LowerEastSide.csv','csv','head');
+    Manhattan_ville = loadStrings('Manhattanville.csv','csv','head');
+    Marble_Hill_Inwood = loadStrings('MarbleHillInwood.csv','csv','head');
+    Midtown_South = loadStrings('Midtown.csv','csv','head');
+    Morningside_Height = loadStrings('MorningsideHeights.csv','csv','head');
+    Murray_Hill = loadStrings('MurrayHill.csv','csv','head');
+    park_etc = loadStrings('parketc.csv','csv','head');
+    Soho = loadStrings('Soho.csv','csv','head');
+    Cooper_Village = loadStrings('CooperVillage.csv','csv','head');
+    Turtle_Bay = loadStrings('TurtleBay.csv','csv','head');
+    Upper_East_Side = loadStrings('UpperEastSide.csv','csv','head');  
     Upper_West_Side = loadStrings('UpperWestSide.csv','csv','head');
     Washington_Height_North = loadStrings('WashingtonHeightsNorth.csv','csv','head');
     Washington_Height_South = loadStrings('WashingtonHeightsSouth.csv','csv','head');
@@ -363,7 +390,8 @@ function draw(){
             if (mouseX > 800 && mouseX < 980 && mouseY > 180+j*x && mouseY < 202+j*x) {
                 noStroke();
                 fill(204,0,0);
-                text(data2[1], 75, 400+j*x);
+                
+                text(data2[1], 75, 500+j*x);
                 stroke(204,0,0);
 
             } else {
@@ -374,7 +402,7 @@ function draw(){
             if (mouseX > 800 && mouseX < 980 && mouseY > 180+x2+j*x && mouseY < 202+x2+j*x) {
                 noStroke();
                 fill(204,0,0);
-                text(data2[2], 75, 400+j*x);
+                text(data2[2], 75, 500+j*x);
                 stroke(204,0,0);
                 
             } else {
@@ -385,7 +413,7 @@ function draw(){
             if (mouseX > 800 && mouseX < 980 && mouseY > 180+x2*2+j*x && mouseY < 202+x2*2+j*x) {
                 noStroke();
                 fill(204,0,0);
-                text(data2[3], 75, 400+j*x);
+                text(data2[3], 75, 500+j*x);
                 stroke(204,0,0);
                 
             } else {
@@ -396,7 +424,7 @@ function draw(){
             if (mouseX > 800 && mouseX < 980 && mouseY > 180+x2*3+j*x && mouseY < 202+x2*3+j*x) {
                 noStroke();
                 fill(204,0,0);
-                text(data2[4], 75, 400+j*x);
+                text(data2[4], 75, 500+j*x);
                 stroke(204,0,0);
                 
             } else {
@@ -407,7 +435,7 @@ function draw(){
             if (mouseX > 800 && mouseX < 980 && mouseY > 180+x2*4+j*x && mouseY < 202+x2*4+j*x) {
                 noStroke();
                 fill(204,0,0);
-                text(data2[5], 75, 400+j*x);
+                text(data2[5], 75, 500+j*x);
                 stroke(204,0,0);
                 
             } else {
@@ -418,7 +446,7 @@ function draw(){
             if (mouseX > 800 && mouseX < 980 && mouseY > 180+x2*5+j*x && mouseY < 202+x2*5+j*x) {
                 noStroke();
                 fill(204,0,0);
-                text(data2[6], 75, 400+j*x);
+                text(data2[6], 75, 500+j*x);
                 stroke(204,0,0);
                 
             } else {
@@ -435,7 +463,7 @@ function draw(){
     textSize(12);
     text("Hang over your mouse to explore the distribution of each type of complaint in different neighborhood.", 800,50,180,100);
     for(var i=0; i<29; i++){
-        text("Battery Park City is a mainly residential 92-acre (37 ha) planned community on the west side of the southern tip of the island of Manhattan in New York City. More than one-third of the development is parkland.", 75, 150+i*x, 200,200);
+        text(description[i], 75, 150+i*x, 200,200);
     }
     
     
