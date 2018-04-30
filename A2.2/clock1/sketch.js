@@ -1,6 +1,6 @@
 
 function setup(){
-  createCanvas(800,700);
+  createCanvas(800,500);
   frameRate(1);
   noStroke();
 }

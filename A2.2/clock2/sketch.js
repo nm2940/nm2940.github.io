@@ -7,7 +7,7 @@ var hoursRadius;
 
 function setup() {
 
-  createCanvas(1000, 600);
+  createCanvas(800, 700);
   stroke(255);
 
   var radius = min(width, height) / 4; 
