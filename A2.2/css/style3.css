@@ -94,7 +94,23 @@ nav ul a:hover {
 	font-family: 'Libre Baskerville', serif;
 	font-size: 12px;
 	padding-left: 40px;
-	padding-top: 60px;
+	padding-top: 0px;
+}
+.column1 {
+    width:700px;
+    float:left;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 12px;
+	padding-left: 40px;
+	padding-top: 700px;
+}
+.column2 {
+    width:700px;
+    float:left;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 12px;
+	padding-left: 40px;
+	padding-top: 1400px;
 }
 .column_middle {
 
